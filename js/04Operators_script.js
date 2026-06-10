@@ -12,10 +12,9 @@ document.write("04Operators_script.js is linked")
 
 
 // 5.  Write a JavaScript statement that logs the remainder of 5 divided by 2
-console.log(5 % 2)
+
 
 // 6.  Write a JavaScript statement that logs the result of comparing 4 and 2 to see if they are equal (remember == is the comparison operator for equals)
-console.log(4 == 2)
+
 
 // 7.  Write a JavaScript statement that logs the result of 3 squared
-console.log(3 ** 2)

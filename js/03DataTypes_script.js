@@ -2,8 +2,7 @@ document.write("03DataTypes_script.js is linked")
 // 1.  Write a JavaScript statement below that logs the data type of "hello" to the console"
 
 
-// 2.  Write a JavaScript statement below that logs the data type of 10 to the console"
-
+// 2.  Write a JavaScript statement below that logs the data type of 10 to the console
 
 
 // 3.  Write a JavaScript statement below that logs the data type of 5.5 to the console"
